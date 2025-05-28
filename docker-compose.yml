@@ -7,7 +7,7 @@ services:
       dockerfile: Dockerfile
     #ports:
     #  - "8080:80"
-    container_name: afaq_container
+    container_name: bilal_container
     restart: unless-stopped
     networks:
       - nginx
